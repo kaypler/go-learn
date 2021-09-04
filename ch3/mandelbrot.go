@@ -1,0 +1,1 @@
+// mandelbrot 函数生成一个 PNG 格式的 Mandelbrot 分形图
