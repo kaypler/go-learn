@@ -10,4 +10,5 @@
 [4. 复合数据类型](./notes/04.compound-type.md) <br>
 [5. 函数](./notes/05.function.md) <br>
 [6. 方法](./notes/06.method.md) <br>
+[7. 接口](./notes/07.interface.md) <br>
 [10. 包管理](./notes/10.package.md) <br>
