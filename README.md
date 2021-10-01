@@ -3,6 +3,8 @@
 
 《Go程序设计语言》一书的学习笔记
 
+[源代码](https://github.com/adonovan/gopl.io)
+
 ## 目录
 [1. 入门](./notes/1.start.md) <br>
 [2. 程序结构](./notes/02.program-structure.md) <br>
